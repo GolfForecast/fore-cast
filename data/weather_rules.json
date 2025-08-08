@@ -1,0 +1,38 @@
+[
+  {
+    "code": "WINDY_20KTS",
+    "match": {
+      "wind_kts": {
+        ">=": 20
+      }
+    },
+    "advice": [
+      "Knock\u2011down time. Three\u2011quarter swing, finish low.",
+      "Favour centre greens; gusts exaggerate misses."
+    ]
+  },
+  {
+    "code": "COLD_6C",
+    "match": {
+      "feels_like_c": {
+        "<=": 6
+      }
+    },
+    "advice": [
+      "Layer up. Expect ~\u00bd club short.",
+      "Warm hands: wedges first."
+    ]
+  },
+  {
+    "code": "UV_HIGH_10",
+    "match": {
+      "uv": {
+        ">=": 10
+      }
+    },
+    "advice": [
+      "SPF 30+ on ears & hands.",
+      "Reapply at the turn."
+    ]
+  }
+]
