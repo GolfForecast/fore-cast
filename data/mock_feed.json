@@ -1,0 +1,45 @@
+[
+  {
+    "id": "rmw-1",
+    "type": "video",
+    "course": "Royal Melbourne (West)",
+    "slug": "royal-melbourne-west",
+    "caption": "Wind’s up—keep it under the tree line 🌬️",
+    "user": "Sam P",
+    "likes": 128
+  },
+  {
+    "id": "bbd-1",
+    "type": "video",
+    "course": "Barnbougle Dunes",
+    "slug": "barnbougle-dunes",
+    "caption": "Bump-and-run from 50m—so satisfying",
+    "user": "Jess H",
+    "likes": 86
+  },
+  {
+    "id": "rmw-2",
+    "type": "video",
+    "course": "Royal Melbourne (West)",
+    "slug": "royal-melbourne-west",
+    "caption": "Short-sided on 4… here’s the save",
+    "user": "Leo",
+    "likes": 64
+  },
+  {
+    "id": "guess-1",
+    "type": "guess",
+    "caption": "Guess This Course – Week 1",
+    "clue": "Clue 1: Sandbelt classic, fast greens."
+  },
+  {
+    "id": "st-andrews-1",
+    "type": "video",
+    "course": "St Andrews (Old Course)",
+    "slug": "st-andrews-links-old-course",
+    "caption": "Hold your nerve on the Road Hole 👀",
+    "user": "Ally",
+    "likes": 203
+  }
+]
+
